@@ -149,26 +149,48 @@ when doing the design in figma constantly ensure that you are checking the contr
 - booking visit
 - info
 - footer which has social media
-  
+
+## Begin
+<img width="301" height="166" alt="image" src="https://github.com/user-attachments/assets/dd84133d-91ee-4fdd-8cbd-180fe726779d" />
+
+### start with putting a ! which will give you the beggining html layout and then paste in the bootstrap 
+<img width="739" height="198" alt="image" src="https://github.com/user-attachments/assets/70792884-a367-4246-82a7-50562b042836" />
+
+
 
 ## Nav Bar
 ### good example
-<img width="423" height="688" alt="image" src="https://github.com/user-attachments/assets/44e95754-6cc2-42f0-b3fb-1727a8bfb5b0" />
+### <img width="420" height="49" alt="image" src="https://github.com/user-attachments/assets/cf6ad645-210a-4c17-9283-335e499538d6" />
+### 
 
-## good example of footer 
+
+## Log in page
+### good example
+<img width="488" height="337" alt="image" src="https://github.com/user-attachments/assets/abab0f75-02c1-4bf8-b1a3-8dfeff451af4" />
+
+## Home
+### good example - Include most main features as easily accesible from home page
+<img width="425" height="692" alt="image" src="https://github.com/user-attachments/assets/85bac701-59fa-4534-94b5-b2c98ccfe3dc" /> 
+
+## Rest of pages
+### use cards + bootstrap
+
+## Footer
+## good example
 <img width="408" height="69" alt="image" src="https://github.com/user-attachments/assets/59a24bcf-5314-45c8-8ab5-230c4c3cfea0" />
 
-### footer code example
-<div class="footer bg-secondary-subtle d-flex justify-content-center align-items-center flex-column mt-5 text-center p-5">
-        <h2 class="text-primary">BrewBox Coffee</h2>
-        <p>The finest beans, roasted to perfection, served with a passion for excellence in every single sip.</p>
-        <div class="icons">
-            <img src="https://img.icons8.com/?size=100&id=32292&format=png&color=000000" alt="">
-            <img src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" alt="">
-            <img src="https://img.icons8.com/?size=100&id=118468&format=png&color=000000" alt="">
-        </div>
-    </div>
-### css to position a footer
+## c# 
+### navbar styling 
+### <img width="257" height="654" alt="image" src="https://github.com/user-attachments/assets/b0b9e6cf-025e-4345-a02e-a291d1569410" />
+
+### 
+
+
+## java 
+
+## Once finished include a photo of the full solution
+<img width="487" height="275" alt="image" src="https://github.com/user-attachments/assets/e2429b3e-e0dd-41bc-b757-868c643cfb52" />
+
 
 ## ERD + Data flow examples
 
@@ -249,5 +271,7 @@ Expected outcome
 ## Show testing strategies
 ### Automate testing using manual testing
 <img width="452" height="649" alt="image" src="https://github.com/user-attachments/assets/9f76fe50-7e68-406f-883f-489e1de7aefc" />
+
+
 
 
