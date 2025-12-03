@@ -161,7 +161,10 @@ when doing the design in figma constantly ensure that you are checking the contr
 ## Nav Bar
 ### good example
 ### <img width="420" height="49" alt="image" src="https://github.com/user-attachments/assets/cf6ad645-210a-4c17-9283-335e499538d6" />
-### 
+### <img width="772" height="676" alt="image" src="https://github.com/user-attachments/assets/842ad444-f5c6-4ff4-bece-9ae773a9815d" />
+
+
+
 
 
 ## Log in page
@@ -175,13 +178,23 @@ when doing the design in figma constantly ensure that you are checking the contr
 ## Rest of pages
 ### use cards + bootstrap
 
+<img width="387" height="413" alt="image" src="https://github.com/user-attachments/assets/7a317024-4f8e-403e-b83e-aa6709bd6ed5" />
+
+
 ## Footer
 ## good example
 <img width="408" height="69" alt="image" src="https://github.com/user-attachments/assets/59a24bcf-5314-45c8-8ab5-230c4c3cfea0" />
 
 ## c# 
 ### navbar styling 
-### <img width="257" height="654" alt="image" src="https://github.com/user-attachments/assets/b0b9e6cf-025e-4345-a02e-a291d1569410" />
+<img width="265" height="835" alt="image" src="https://github.com/user-attachments/assets/d35b2194-80b5-4fe9-957a-d507b1a2d086" />
+<img width="260" height="807" alt="image" src="https://github.com/user-attachments/assets/4f61da8b-4d44-42a1-b3f9-2a0438fb76da" />
+
+### cards optional styling ideas 
+<img width="326" height="706" alt="image" src="https://github.com/user-attachments/assets/8c186733-2cc8-4342-bbee-85bb08d88c62" />
+
+
+
 
 ### 
 
