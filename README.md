@@ -183,7 +183,11 @@ when doing the design in figma constantly ensure that you are checking the contr
 
 ## Footer
 ## good example
-<img width="408" height="69" alt="image" src="https://github.com/user-attachments/assets/59a24bcf-5314-45c8-8ab5-230c4c3cfea0" />
+## <img width="408" height="69" alt="image" src="https://github.com/user-attachments/assets/59a24bcf-5314-45c8-8ab5-230c4c3cfea0" />
+## footer code example basic
+## <img width="320" height="457" alt="image" src="https://github.com/user-attachments/assets/254a8afd-50af-4a1e-a272-db9efa67baac" />
+
+
 
 ## c# 
 ### navbar styling 
@@ -192,6 +196,10 @@ when doing the design in figma constantly ensure that you are checking the contr
 
 ### cards optional styling ideas 
 <img width="326" height="706" alt="image" src="https://github.com/user-attachments/assets/8c186733-2cc8-4342-bbee-85bb08d88c62" />
+
+### styling for footer
+### <img width="244" height="484" alt="image" src="https://github.com/user-attachments/assets/00290003-6ea9-4b3b-ba78-29a841286edd" />
+
 
 
 
