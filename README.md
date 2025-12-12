@@ -178,7 +178,10 @@ when doing the design in figma constantly ensure that you are checking the contr
 ## Rest of pages
 ### use cards + bootstrap
 
-<img width="387" height="413" alt="image" src="https://github.com/user-attachments/assets/7a317024-4f8e-403e-b83e-aa6709bd6ed5" />
+## <img width="387" height="413" alt="image" src="https://github.com/user-attachments/assets/7a317024-4f8e-403e-b83e-aa6709bd6ed5" />
+### Images on pages 
+<img width="347" height="91" alt="image" src="https://github.com/user-attachments/assets/d6f955d2-00b3-465e-8ada-05fedc264ff5" />
+
 
 
 ## Footer
@@ -199,6 +202,10 @@ when doing the design in figma constantly ensure that you are checking the contr
 
 ### styling for footer
 ### <img width="244" height="484" alt="image" src="https://github.com/user-attachments/assets/00290003-6ea9-4b3b-ba78-29a841286edd" />
+
+### Images styling
+
+## <img width="235" height="175" alt="image" src="https://github.com/user-attachments/assets/bfbd2c10-bc67-49b7-8e4f-2665c349ff72" />
 
 
 
