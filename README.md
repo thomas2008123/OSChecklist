@@ -202,6 +202,10 @@ when doing the design in figma constantly ensure that you are checking the contr
 
 ### styling for footer
 ### <img width="244" height="484" alt="image" src="https://github.com/user-attachments/assets/00290003-6ea9-4b3b-ba78-29a841286edd" />
+### <img width="835" height="779" alt="image" src="https://github.com/user-attachments/assets/f4b08a53-3a71-4821-adaf-a653aaa6885f" />
+
+## Optionally remove the position : Fixed;
+
 
 ### Images styling
 
