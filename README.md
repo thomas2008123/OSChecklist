@@ -162,6 +162,8 @@ when doing the design in figma constantly ensure that you are checking the contr
 ### good example
 ### <img width="420" height="49" alt="image" src="https://github.com/user-attachments/assets/cf6ad645-210a-4c17-9283-335e499538d6" />
 ### <img width="772" height="676" alt="image" src="https://github.com/user-attachments/assets/842ad444-f5c6-4ff4-bece-9ae773a9815d" />
+### <img width="430" height="696" alt="image" src="https://github.com/user-attachments/assets/17ff3938-9b2e-4f27-8c60-456300805d3d" />
+
 
 
 
@@ -198,8 +200,12 @@ when doing the design in figma constantly ensure that you are checking the contr
 
 ## c# 
 ### navbar styling 
-<img width="265" height="835" alt="image" src="https://github.com/user-attachments/assets/d35b2194-80b5-4fe9-957a-d507b1a2d086" />
-<img width="260" height="807" alt="image" src="https://github.com/user-attachments/assets/4f61da8b-4d44-42a1-b3f9-2a0438fb76da" />
+### <img width="265" height="835" alt="image" src="https://github.com/user-attachments/assets/d35b2194-80b5-4fe9-957a-d507b1a2d086" />
+### <img width="260" height="807" alt="image" src="https://github.com/user-attachments/assets/4f61da8b-4d44-42a1-b3f9-2a0438fb76da" />
+### promo bar styling 
+### <img width="292" height="701" alt="image" src="https://github.com/user-attachments/assets/aa01be33-fb10-4559-8103-0796bb4b0566" />
+
+
 
 ### cards optional styling ideas 
 <img width="326" height="706" alt="image" src="https://github.com/user-attachments/assets/8c186733-2cc8-4342-bbee-85bb08d88c62" />
