@@ -180,7 +180,11 @@ when doing the design in figma constantly ensure that you are checking the contr
 
 ## <img width="387" height="413" alt="image" src="https://github.com/user-attachments/assets/7a317024-4f8e-403e-b83e-aa6709bd6ed5" />
 ### Images on pages 
-<img width="347" height="91" alt="image" src="https://github.com/user-attachments/assets/d6f955d2-00b3-465e-8ada-05fedc264ff5" />
+### <img width="347" height="91" alt="image" src="https://github.com/user-attachments/assets/d6f955d2-00b3-465e-8ada-05fedc264ff5" />
+## Image rows
+### <img width="649" height="656" alt="image" src="https://github.com/user-attachments/assets/b57a998e-d36a-4549-82f8-7667d5f0a36f" />
+
+
 
 
 
@@ -211,11 +215,9 @@ when doing the design in figma constantly ensure that you are checking the contr
 
 ## <img width="235" height="175" alt="image" src="https://github.com/user-attachments/assets/bfbd2c10-bc67-49b7-8e4f-2665c349ff72" />
 
+### Row image
 
-
-
-
-### 
+### <img width="349" height="452" alt="image" src="https://github.com/user-attachments/assets/83739149-bb21-4733-b3b0-9353355e1e20" />
 
 
 ## java 
