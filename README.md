@@ -312,6 +312,117 @@ Expected outcome
 ### Automate testing using manual testing
 <img width="452" height="649" alt="image" src="https://github.com/user-attachments/assets/9f76fe50-7e68-406f-883f-489e1de7aefc" />
 
+## 3a
 
+### 3a is where you create the questionaire an collect answers from individuals
 
+You should be thinking about what you would improve next time
+rewriting questions to make them more useful
+testing a wider audiance 
+gatherng more detailed qualitative comments 
+using data visualisation
+plannin feedback earlier in the process
+
+make questions clear 
+nsure variety and detail
+
+## 3b
+non technical compared to technical user exprience 
+what needs improving most e.g. navigation 
+
+### Task 3b Evaluation of Prototype Digital Solution 
+
+1. Introduction 
+
+What is your prototype? 
+
+What does this evaluation cover? 
+
+ 
+
+2. Evaluation of Assets and Content 
+
+2.1 Why You Chose Your Assets 
+
+(Fonts, colours, images, icons, text, data, layout.) 
+
+ 
+
+2.2 Why You Rejected Other Options 
+
+ 
+
+2.3 Validity and Reliability of Sources 
+
+ 
+
+2.4 Legal & Ethical Considerations 
+
+Copyright 
+
+Licences 
+
+GDPR 
+
+Accessibility 
+
+Inclusivity 
+
+ 
+
+3. How Your Prototype Meets Requirements 
+
+3.1 Functional Requirements 
+
+ 
+
+3.2 Non‑Functional Requirements 
+
+ 
+
+3.3 KPIs 
+
+ 
+
+3.4 User Acceptance Criteria 
+
+(Use feedback from Task 3a.) 
+
+ 
+
+4. Improvements (Evidence‑Based) 
+
+For each improvement: 
+
+What will you improve? 
+
+Why? 
+
+Which Task 3a evidence supports it? 
+
+How will it help users? 
+
+Improvement 1: 
+
+ 
+
+Improvement 2: 
+
+ 
+
+Improvement 3: 
+
+ 
+
+5. Conclusion 
+
+Summarise: 
+
+What worked well 
+
+What needs development 
+
+How the prototype can be improved further 
+
+ 
 
