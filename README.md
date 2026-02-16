@@ -213,6 +213,20 @@ display: flex; align-items: center; justify-content: space-between; padding: 15p
 
 justify content: flex
 
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+
+}
+
+:hover
+stransform scale
+
+margin (direction)
+
+padding 
 
 
 ### styling for footer
