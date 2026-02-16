@@ -153,6 +153,9 @@ when doing the design in figma constantly ensure that you are checking the contr
 ## Begin
 <img width="301" height="166" alt="image" src="https://github.com/user-attachments/assets/dd84133d-91ee-4fdd-8cbd-180fe726779d" />
 
+### head 
+<link>
+
 ### start with putting a ! which will give you the beggining html layout and then paste in the bootstrap 
 <img width="739" height="198" alt="image" src="https://github.com/user-attachments/assets/70792884-a367-4246-82a7-50562b042836" />
 
@@ -161,8 +164,7 @@ when doing the design in figma constantly ensure that you are checking the contr
 ## Nav Bar
 ### good example
 ### <img width="420" height="49" alt="image" src="https://github.com/user-attachments/assets/cf6ad645-210a-4c17-9283-335e499538d6" />
-### <img width="772" height="676" alt="image" src="https://github.com/user-attachments/assets/842ad444-f5c6-4ff4-bece-9ae773a9815d" />
-### <img width="430" height="696" alt="image" src="https://github.com/user-attachments/assets/17ff3938-9b2e-4f27-8c60-456300805d3d" />
+
 
 
 
@@ -177,49 +179,108 @@ when doing the design in figma constantly ensure that you are checking the contr
 ### good example - Include most main features as easily accesible from home page
 <img width="425" height="692" alt="image" src="https://github.com/user-attachments/assets/85bac701-59fa-4534-94b5-b2c98ccfe3dc" /> 
 
-## Rest of pages
-### use cards + bootstrap
-
-## <img width="387" height="413" alt="image" src="https://github.com/user-attachments/assets/7a317024-4f8e-403e-b83e-aa6709bd6ed5" />
-### Images on pages 
-### <img width="347" height="91" alt="image" src="https://github.com/user-attachments/assets/d6f955d2-00b3-465e-8ada-05fedc264ff5" />
-## Image rows
-### <img width="649" height="656" alt="image" src="https://github.com/user-attachments/assets/b57a998e-d36a-4549-82f8-7667d5f0a36f" />
-
-
-
-
 
 ## Footer
 ## good example
 ## <img width="408" height="69" alt="image" src="https://github.com/user-attachments/assets/59a24bcf-5314-45c8-8ab5-230c4c3cfea0" />
-## footer code example basic
-## <img width="320" height="457" alt="image" src="https://github.com/user-attachments/assets/254a8afd-50af-4a1e-a272-db9efa67baac" />
 
+## buttons 
+button:hover { transform: scale(1.05); }
+
+transition: all .4s ease;
 
 
 ## c# 
+
+### yap 
+center
+
+display: block; margin: auto;
+
+set width
+
+max width:
+
+### body
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0; 
+    padding 0;
+}
+
 ### navbar styling 
-### <img width="265" height="835" alt="image" src="https://github.com/user-attachments/assets/d35b2194-80b5-4fe9-957a-d507b1a2d086" />
-### <img width="260" height="807" alt="image" src="https://github.com/user-attachments/assets/4f61da8b-4d44-42a1-b3f9-2a0438fb76da" />
-### promo bar styling 
-### <img width="292" height="701" alt="image" src="https://github.com/user-attachments/assets/aa01be33-fb10-4559-8103-0796bb4b0566" />
+display: flex; align-items: center; justify-content: space-between; padding: 15px 40px;
+
+justify content: flex
 
 
-
-### cards optional styling ideas 
-<img width="326" height="706" alt="image" src="https://github.com/user-attachments/assets/8c186733-2cc8-4342-bbee-85bb08d88c62" />
 
 ### styling for footer
-### <img width="244" height="484" alt="image" src="https://github.com/user-attachments/assets/00290003-6ea9-4b3b-ba78-29a841286edd" />
-### <img width="835" height="779" alt="image" src="https://github.com/user-attachments/assets/f4b08a53-3a71-4821-adaf-a653aaa6885f" />
 
-## Optionally remove the position : Fixed;
+footer {
+background-color 
+bottom 0
+margin 0
+position relative
+top
+height
+max-width 100vw
+
+footer text {
+color 
+display flex
+align items center
+justify space
+padding 1 up/down 2 side to side 
 
 
 ### Images styling
 
-## <img width="235" height="175" alt="image" src="https://github.com/user-attachments/assets/bfbd2c10-bc67-49b7-8e4f-2665c349ff72" />
+<section class="image-text">
+    <img src="img/consultations.png" alt="Sustainable energy illustration">
+
+    <div class="image-text-content">
+        <h2>Reduce Your Carbon Footprint</h2>
+        <p>
+            Small changes can make a big difference. Switching to renewable
+            energy, driving electric vehicles, and reducing flights all help
+            lower emissions.
+        </p>
+        <p>
+            Roslin Technologies helps you make informed, sustainable choices
+            that benefit both the planet and your wallet.
+        </p>
+    </div>
+</section> 
+
+
+.image-text {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    max-width: 1200px;
+    margin: 80px auto;
+    padding: 20px;
+}
+
+.image-text img {
+    width: 45%;
+    border-radius: 10px;
+}
+
+.image-text-content {
+    width: 55%;
+}
+
+.image-text-content h2 {
+    color: #004648;
+    margin-bottom: 10px;
+}
+
+.image-text-content p {
+    line-height: 1.6;
+}
+
 
 ### Row image
 
