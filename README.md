@@ -228,6 +228,7 @@ margin (direction)
 
 padding 
 
+add a nav active for current selected page - <section class="nav-active"><a href="footer.html" >foot</a></section>
 
 ### styling for footer
 
