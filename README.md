@@ -337,6 +337,21 @@ padding 1 up/down 2 side to side
 ## Once finished include a photo of the full solution
 <img width="487" height="275" alt="image" src="https://github.com/user-attachments/assets/e2429b3e-e0dd-41bc-b757-868c643cfb52" />
 
+### What to ensure is completed 
+
+has accesibility, compatibility and legal and ethical considerations been taken into account 
+wcag 2.2
+POUR - percievable, operable, understandable, robust 
+alt text 
+when doing alt ensure that proper naming is used that makes sense - screen reader
+use semantic to make code more readable 
+<form></form>
+:focus highlights text 
+a:focus { outline 3px }
+webaim - https://webaim.org/resources/contrastchecker/
+<img width="904" height="533" alt="image" src="https://github.com/user-attachments/assets/d5e481b6-eaaa-4920-a13d-bb398a671a86" />
+in depth comments e.g explain why, how is accesibility shown
+
 
 ## ERD + Data flow examples
 
