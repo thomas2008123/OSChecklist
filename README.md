@@ -201,6 +201,36 @@ set width
 
 max width:
 
+### button output
+<button onclick="translateCat()">Translate</button>
+
+<p id="result"></p>
+
+<script>
+function translateCat() {
+    document.getElementById("result").innerText =
+    "Welcome, human. The cats are watching. Feed us.";
+}
+</script>
+
+### calc
+<label for="current">current weight</label>
+    <input type="number" id="current" placeholder="current Weight">
+
+const current = Number(document.getElementById("current").value);
+const age = Number(document.getElementById("age").value);
+
+const currentweight = current * 1;
+
++ total.toFixed(0) + "kg"
+
+### error handle 
+
+if (const <= 0 || const <= 0) {
+            document.getElementById("").innerText = "Values must be greater than 0.";
+            return;
+            }
+            
 ### body
 body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
