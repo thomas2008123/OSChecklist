@@ -201,6 +201,8 @@ set width
 
 max width:
 
+add dates to change log
+
 ### button output
 <button onclick="translateCat()">Translate</button>
 
@@ -230,6 +232,25 @@ if (const <= 0 || const <= 0) {
             document.getElementById("").innerText = "Values must be greater than 0.";
             return;
             }
+### Legal and ethical measures to include for security
+password hashing
+make it accesible - use tab to be able to navigate
+ensure small text contast is at least 4.5:1 or large text 3:1
+me inclusivve to different devices 
+use good alt text 
+make sure users can use screenreader 
+GDPR
+data protection act 2018
+
+in comments put which this follows
+e.g.- change log/comment
+
+18/02/2026
+Number of functions added: 
+change summary : 
+version number : 
+I used passwords hashing here to stay within compliance of GDPR and the 2018 Data protection act this is as it protects user data and can not be intercepted during transfer which keeps user data safe as they have trusted it with us.
+
             
 ### body
 body {
