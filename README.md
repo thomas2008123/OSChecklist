@@ -11,7 +11,7 @@ Anything you find or write as part of the research should be saved and included 
 
 ## apendix which should be included 
 ### Appendix 1: Hardware & Software 
- - research common hardware and software used in industry you are syudying
+ - research common hardware and software used in industry you are studying
  - identify how they enable or support digital solution
 ### What to include:
  - Key hardware (e.g., devices, sensors, machines).
