@@ -167,7 +167,7 @@ when doing the design in figma constantly ensure that you are checking the contr
 
 
 
-
+@media (max-width: 768px) {}
 
 
 
