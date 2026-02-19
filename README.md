@@ -321,6 +321,9 @@ padding 1 up/down 2 side to side
     </div>
 </section> 
 
+max-width: 100%;
+  height: auto;
+
 
 .image-text {
     display: flex;
