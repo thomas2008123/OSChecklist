@@ -272,6 +272,8 @@ justify content: flex
 
 }
 
+make sure when doing divs they always are seperate
+
 :hover
 stransform scale
 
