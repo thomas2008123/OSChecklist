@@ -5,6 +5,9 @@ data dictionary
 use erd 
 table name- header of table/ field name data field e.g id/ field definition name of region, unique identification/ data type and legth int10, varchar50/ format or validation rules numeric, alphabetic/ primary key pk, foreign key fk/sample data what you would enter
 
+<img width="579" height="397" alt="image" src="https://github.com/user-attachments/assets/54756679-4fe3-4af2-9cc3-31186d62f73c" />
+
+
 
 Activity A(i) asks you to research and prepare for creating a proposal
 ### your research should:
