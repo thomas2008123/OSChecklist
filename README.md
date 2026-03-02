@@ -6,6 +6,8 @@ use erd
 table name- header of table/ field name data field e.g id/ field definition name of region, unique identification/ data type and legth int10, varchar50/ format or validation rules numeric, alphabetic/ primary key pk, foreign key fk/sample data what you would enter
 
 <img width="579" height="397" alt="image" src="https://github.com/user-attachments/assets/54756679-4fe3-4af2-9cc3-31186d62f73c" />
+<img width="524" height="537" alt="image" src="https://github.com/user-attachments/assets/7a155833-aaca-4c05-9d37-dd6952157d27" />
+
 
 
 
