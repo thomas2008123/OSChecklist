@@ -8,7 +8,17 @@ table name- header of table/ field name data field e.g id/ field definition name
 <img width="579" height="397" alt="image" src="https://github.com/user-attachments/assets/54756679-4fe3-4af2-9cc3-31186d62f73c" />
 <img width="524" height="537" alt="image" src="https://github.com/user-attachments/assets/7a155833-aaca-4c05-9d37-dd6952157d27" />
 
+Normal Data 
 
+Every day, sensible input the system is designed to accept. 
+
+Erroneous Data 
+
+Wrong type, impossible, or far outside the valid range. 
+
+Extreme Data 
+
+Values at the maximum or minimum allowed by the system. 
 
 
 Activity A(i) asks you to research and prepare for creating a proposal
