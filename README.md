@@ -89,6 +89,34 @@ Anything you find or write as part of the research should be saved and included 
  - KPIs (e.g., performance metrics, user satisfaction, reliability).
  - User acceptance criteria (pass/fail standards for features and usability).
 
+Problem Summary
+
+Proposed Digital Solution
+
+Clear description of the digital product you plan to create.
+
+Key Features
+
+User Requirements
+
+System Requirements
+
+Constraints
+
+Risks & Mitigation
+
+Stakeholders
+
+Success Criteria
+
+Justification
+
+Summary
+
+
+APPENDIX 1: Hardware and software 
+
+
 ## 2. Proposal A(ii)
 ### Problem Summary
  - Brief explanation of the issue or challenge the digital solution aims to address.
