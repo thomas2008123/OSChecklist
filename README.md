@@ -1,6 +1,8 @@
 # ✅ Activity A Checklist
 Start with the appendix then complete proposal above referencing to appendix and the sources used within
 <img width="568" height="588" alt="image" src="https://github.com/user-attachments/assets/a34da136-8edd-430e-b10f-f3e3a426b0a0" />
+<img width="555" height="386" alt="image" src="https://github.com/user-attachments/assets/a754ca7c-5361-4ea8-b030-17e509696b66" />
+
 ## 1. Research A(i)
 have main page with logo and your rundown 
 table of contents
@@ -178,6 +180,7 @@ APPENDIX 1: Hardware and software
  - Short recap of the proposal.
  - Reaffirm the purpose and expected impact of your digital solution.
 ## include links to websites which connect to the appendix 
+wireframes
 # ✅ Activity B Checklist
 ## 1. Visual / Interface Designs
 
