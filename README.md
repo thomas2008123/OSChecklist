@@ -1,5 +1,17 @@
 # ✅ Activity A Checklist
+Start with the appendix then complete proposal above referencing to appendix and the sources used within
+<img width="568" height="588" alt="image" src="https://github.com/user-attachments/assets/a34da136-8edd-430e-b10f-f3e3a426b0a0" />
 ## 1. Research A(i)
+have main page with logo and your rundown 
+table of contents
+use lighthouse to check over site
+
+table of contents 
+reference appendix
+use references 
+my bib ref
+https://www.mybib.com/
+take urls to get reference list
 
 data dictionary 
 use erd 
