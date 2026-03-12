@@ -36,6 +36,73 @@ Extreme Data
 
 Values at the maximum or minimum allowed by the system. 
 
+                 <section class="section">
+                 
+                 <h2>Section Title</h2>
+                 
+                 <div class="grid">
+                 
+                 <div class="card">
+                 <img src="images/example.jpg" alt="Example image">
+                 <br>
+                 <button>Action Button</button>
+                 </div>
+                 
+                 <div class="card">
+                 <p>
+                 Text content explaining the section.
+                 </p>
+                 </div>
+                 
+                 </div>
+                 
+                 </section>
+
+                 
+                 .section{
+                 padding:60px 40px;
+                 max-width:1200px;
+                 margin:auto;
+                 text-align:center;
+                 }
+
+
+.grid{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:40px;
+margin-top:20px;
+}
+
+.card{
+background:#faf1e1;
+padding:20px;
+border-radius:15px;
+}
+
+button{
+margin-top:15px;
+padding:12px 25px;
+border:none;
+border-radius:25px;
+background:#8a622e;
+color:white;
+font-weight:bold;
+cursor:pointer;
+}
+
+
+@media (max-width:900px){
+
+.grid{
+grid-template-columns:1fr;
+}
+
+.navbar{
+flex-direction:column;
+}
+
+}
 
 Activity A(i) asks you to research and prepare for creating a proposal
 ### your research should:
