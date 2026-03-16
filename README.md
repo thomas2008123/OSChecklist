@@ -1,6 +1,7 @@
 # ✅ Activity A Checklist
 Start with the appendix then complete proposal above referencing to appendix and the sources used within
 
+Have include Snippets Of code in my checklist in order to run my memory in cases have ensured not to do "full sollutions"
 ## 1. Research A(i)
 have main page with logo and your rundown 
 table of contents
