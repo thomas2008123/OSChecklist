@@ -17,9 +17,6 @@ data dictionary
 use erd 
 table name- header of table/ field name data field e.g id/ field definition name of region, unique identification/ data type and legth int10, varchar50/ format or validation rules numeric, alphabetic/ primary key pk, foreign key fk/sample data what you would enter
 
-<img width="579" height="397" alt="image" src="https://github.com/user-attachments/assets/54756679-4fe3-4af2-9cc3-31186d62f73c" />
-<img width="524" height="537" alt="image" src="https://github.com/user-attachments/assets/7a155833-aaca-4c05-9d37-dd6952157d27" />
-
 Normal Data 
 
 Every day, sensible input the system is designed to accept. 
@@ -584,9 +581,6 @@ Expected outcome
 
 <img width="503" height="378" alt="image" src="https://github.com/user-attachments/assets/b089f9ce-f52e-4457-aeec-63d2ca55fbcd" />
 
-## Show testing strategies
-### Automate testing using manual testing
-<img width="452" height="649" alt="image" src="https://github.com/user-attachments/assets/9f76fe50-7e68-406f-883f-489e1de7aefc" />
 
 ## 3a
 
