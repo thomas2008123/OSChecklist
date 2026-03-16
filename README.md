@@ -1,16 +1,5 @@
 # ✅ Activity A Checklist
 Start with the appendix then complete proposal above referencing to appendix and the sources used within
-<img width="568" height="588" alt="image" src="https://github.com/user-attachments/assets/a34da136-8edd-430e-b10f-f3e3a426b0a0" />
-<img width="555" height="386" alt="image" src="https://github.com/user-attachments/assets/a754ca7c-5361-4ea8-b030-17e509696b66" />
-<img width="2500" height="1405" alt="image" src="https://github.com/user-attachments/assets/284af03c-694e-4626-9d25-eaaea0e9f31d" />
-![image](https://github.com/user-attachments/assets/4930dc21-6aad-45cd-896d-744e00474636)
-<img width="585" height="1266" alt="image" src="https://github.com/user-attachments/assets/2fd302ff-52c8-4336-9415-a5015b6e32c9" />
-<img width="585" height="1266" alt="image" src="https://github.com/user-attachments/assets/00a109d1-e2d0-47e8-864b-a4fc7c577716" />
-<img width="585" height="1266" alt="image" src="https://github.com/user-attachments/assets/48d6b15c-a9a4-4400-b8e1-7691d9a8e89c" />
-<img width="585" height="1266" alt="image" src="https://github.com/user-attachments/assets/c720ddfc-2e72-4d02-bf55-05d0d3834758" />
-<img width="585" height="1266" alt="image" src="https://github.com/user-attachments/assets/64ec09d9-c349-4051-9e70-0efa5bf0932a" />
-
-
 
 ## 1. Research A(i)
 have main page with logo and your rundown 
