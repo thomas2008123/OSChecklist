@@ -697,3 +697,119 @@ How the prototype can be improved further
 
  
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login / Sign Up</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="auth-container">
+  <h2 id="formTitle">Login</h2>
+
+  <input type="email" id="email" placeholder="Email">
+  <input type="password" id="password" placeholder="Password">
+
+  <div id="extraFields" style="display:none;">
+    <input type="text" id="name" placeholder="Full Name">
+    <select id="accountType">
+      <option value="user">Regular User</option>
+      <option value="producer">Producer</option>
+    </select>
+  </div>
+
+  <button id="submitBtn">Login</button>
+  <p id="toggleText">Don't have an account? Sign up</p>
+</div>
+
+<script src="auth.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+// Elements
+const formTitle = document.getElementById("formTitle");
+const extraFields = document.getElementById("extraFields");
+const toggleText = document.getElementById("toggleText");
+const submitBtn = document.getElementById("submitBtn");
+
+// Default mode
+let loginMode = true;
+
+// Load users from localStorage
+let users = JSON.parse(localStorage.getItem("users")) || [];
+
+// Update form UI based on mode
+function updateForm() {
+  formTitle.innerText = loginMode ? "Login" : "Sign Up";
+  extraFields.style.display = loginMode ? "none" : "block";
+  submitBtn.innerText = loginMode ? "Login" : "Sign Up";
+  toggleText.innerText = loginMode ? "Don't have an account? Sign up" : "Already have an account? Login";
+}
+
+// Toggle between login and signup
+toggleText.addEventListener("click", () => {
+  loginMode = !loginMode;
+  updateForm();
+});
+
+// Initial form setup
+updateForm();
+
+// Handle login or signup
+submitBtn.addEventListener("click", () => {
+  const email = document.getElementById("email").value.trim();
+  const password = document.getElementById("password").value.trim();
+
+  if (!email || !password) return alert("Please fill in all required fields");
+
+  if (loginMode) {
+    // LOGIN
+    const user = users.find(u => u.email === email && u.password === password);
+    if (!user) return alert("Invalid email or password");
+
+    localStorage.setItem("currentUser", JSON.stringify(user));
+
+    // Role-based redirection
+    window.location.href = user.role === "producer" ? "producer.html" : "home.html";
+
+  } else {
+    // SIGN UP
+    const name = document.getElementById("name").value.trim();
+    const role = document.getElementById("accountType").value;
+
+    if (!name) return alert("Please enter your full name");
+    if (users.some(u => u.email === email)) return alert("Email already exists");
+
+    users.push({ email, password, name, role });
+    localStorage.setItem("users", JSON.stringify(users));
+    alert("Account created successfully!");
+
+    loginMode = true; // switch back to login
+    updateForm();
+  }
+});
+
+
+
+
+
+
+
+<a href="#" id="logout-link">Sign out</a>
+<script>
+document.getElementById("logout-link")?.addEventListener("click", e => {
+  e.preventDefault();
+  if (confirm("Are you sure you want to log out?")) {
+    localStorage.removeItem("currentUser");
+    window.location.href = "index.html";
+  }
+});
+</script>
