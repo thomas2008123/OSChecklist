@@ -737,7 +737,11 @@ How the prototype can be improved further
 ![image](https://github.com/user-attachments/assets/6845e592-e3c0-4098-b90e-97e50ac2d186)
 ![image](https://github.com/user-attachments/assets/2ea92406-dd0b-4402-a97d-44e310f6b31e)
 ![image](https://github.com/user-attachments/assets/0dd33a0e-48b9-4fb3-bddd-163df2b91bc2)
-once finished say what could of been improver
+once finished say what could of been improved
+
+asset log - images, ai prompts with dates, 
+test log - screenshots
+dev log diary - do per session or version, what has been changed 
 
 
 
@@ -785,7 +789,7 @@ submitBtn.addEventListener("click", () => {
     localStorage.setItem("currentUser", JSON.stringify(user));
 
     // Role-based redirection
-    window.location.href = user.role === "producer" ? "producer.html" : "home.html";
+    window.location.href = user.role === "otheruser" ? "otheruser.html" : "home.html";
 
   } else {
     // SIGN UP
