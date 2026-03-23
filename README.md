@@ -743,6 +743,17 @@ asset log - images, ai prompts with dates,
 test log - screenshots
 dev log diary - do per session or version, what has been changed 
 
+Using something like:
+
+localStorage
+or a simple JSON-based/local setup
+
+is fine if you explain:
+
+It allows rapid prototyping
+No server setup required (good within time constraints)
+Suitable for a proof of concept
+
 
 
 // Elements
