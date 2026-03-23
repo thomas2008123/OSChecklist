@@ -733,6 +733,13 @@ How the prototype can be improved further
 
 
 
+![image](https://github.com/user-attachments/assets/9f7c77e3-250a-4bf6-99fd-87ab2e367649)
+![image](https://github.com/user-attachments/assets/6845e592-e3c0-4098-b90e-97e50ac2d186)
+![image](https://github.com/user-attachments/assets/2ea92406-dd0b-4402-a97d-44e310f6b31e)
+![image](https://github.com/user-attachments/assets/0dd33a0e-48b9-4fb3-bddd-163df2b91bc2)
+once finished say what could of been improver
+
+
 
 // Elements
 const formTitle = document.getElementById("formTitle");
