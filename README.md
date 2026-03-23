@@ -754,6 +754,14 @@ It allows rapid prototyping
 No server setup required (good within time constraints)
 Suitable for a proof of concept
 
+What pushes you into top marks
+
+Even though it’s a prototype, high marks come from:
+
+Clear link to your design (Task 1 → Task 2)
+Clean, working features
+Testing + debugging evidence
+Strong evaluation
 
 
 // Elements
