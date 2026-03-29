@@ -868,3 +868,34 @@ By following these steps, you can significantly enhance the security of your web
 
 
 3 Sources
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
+
+<h2 id="producerName"></h2>
+
+<input id="nameInput" placeholder=" Name">
+
+<button onclick="add()">Add </button>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody id="Table"></tbody>
+</table>
+
+
+<script src="place.js"></script>
+
+</body>
+</html>
