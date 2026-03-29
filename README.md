@@ -899,3 +899,6 @@ By following these steps, you can significantly enhance the security of your web
 
 </body>
 </html>
+
+
+A user-facing interface was implemented allowing customers to browse producers and dynamically load their available products. Products are filtered based on visibility settings defined by producers, and selected items are stored in the user’s order array within LocalStorage.
